@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Change Guardian"
+  short_description: "守住产品变更范围、设计依据、实现授权与行为验收"
+  default_prompt: "使用 $product-change-guardian 处理本次产品变更，检查同语义入口和共享依赖，遵循现有设计与用户授权，并报告实际验证结果。"
