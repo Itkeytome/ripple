@@ -1,5 +1,5 @@
 ---
-name: product-change-guardian
+name: ripple
 description: >-
   Use when changing an existing product's UI, filters, forms, labels, defaults,
   state transitions, or business rules; when similar behavior spans pages or
@@ -9,7 +9,7 @@ description: >-
   code reviews, or infrastructure-only changes without product behavior impact.
 ---
 
-# Product Change Guardian
+# Ripple
 
 守住产品变更的范围、依据、授权和验收。先理解业务语义，再决定改哪里；搜索可以比修改范围大，修改权限不能比用户授权大。
 
